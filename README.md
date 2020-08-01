@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+### Welcome to my Github profile 
+# I'm SULAKSHANA RANAWAKE
+## :mortar_board: a Computer Science Undergraduate in University of Colombo School of Computing
+
 
 <!--
 **SulaRanawake/SulaRanawake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+### React JS, React Native, Machine Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -1,7 +1,10 @@
 # Hi there 👋 
 # Welcome to my Github profile 
 ## :mortar_board: I am a Computer Science Undergraduate in University of Colombo School of Computing
-## :mag: Currently searching for a SOFTWARE ENGINEER - INTERNSHIP position
+
+<!--
+## :mag: Currently searching for a SOFTWARE ENGINEER - INTERNSHIP position --!>
+
 ![](https://komarev.com/ghpvc/?username=SulaRanawake&color=blueviolet&style=plastic)
 
 <p align="center">

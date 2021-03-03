@@ -15,6 +15,8 @@
     <img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/>
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?SulaRanawake)
 <!--
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>

@@ -1,8 +1,5 @@
 # Hi there 👋 
-# Welcome to my Github profile 
-## :mortar_board: I am a Computer Science Undergraduate in University of Colombo School of Computing
-
-## :mag: Currently searching for a SOFTWARE ENGINEER position in Sri Lanka
+## Welcome to my Github profile 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sulakshana-ranawake" target="_blank">
